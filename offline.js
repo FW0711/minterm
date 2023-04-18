@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1681831749,
+	"version": 1681836573,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,8 @@
 		"images/sprite8-sheet0.png",
 		"images/sprite9-sheet0.png",
 		"images/test-sheet0.png",
+		"images/nosound-sheet0.png",
+		"images/sprite10-sheet0.png",
 		"media/button.ogg",
 		"media/correct.ogg",
 		"media/fairies2.ogg",
